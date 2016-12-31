@@ -9,24 +9,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="keyword"  content="">
-    <link rel="shortcut icon" href="/huangxiaoxiaonihao.github.io/img/favicon.ico">
+    <link rel="shortcut icon" href="/hexo-theme-huxblog/img/favicon.ico">
 
     <title>
         
-          Welcome to Aguamenti - Lumos
+          About - Lumos
         
     </title>
 
-    <link rel="canonical" href="http://kaijun.rocks/huangxiaoxiaonihao.github.io/hexo-theme-huxblog/2016/12/31/hello-2015/">
+    <link rel="canonical" href="http://kaijun.rocks/hexo-theme-huxblog/hexo-theme-huxblog/about/">
 
     <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="/huangxiaoxiaonihao.github.io/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/hexo-theme-huxblog/css/bootstrap.min.css">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/huangxiaoxiaonihao.github.io/css/hux-blog.min.css">
+    <link rel="stylesheet" href="/hexo-theme-huxblog/css/hux-blog.min.css">
 
     <!-- Pygments Highlight CSS -->
-    <link rel="stylesheet" href="/huangxiaoxiaonihao.github.io/css/highlight.css">
+    <link rel="stylesheet" href="/hexo-theme-huxblog/css/highlight.css">
 
     <!-- Custom Fonts -->
     <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
@@ -67,7 +67,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/huangxiaoxiaonihao.github.io/">Aguamenti</a>
+            <a class="navbar-brand" href="/hexo-theme-huxblog/">Aguamenti</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -80,7 +80,7 @@
             <div class="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="/huangxiaoxiaonihao.github.io/">Home</a>
+                        <a href="/hexo-theme-huxblog/">Home</a>
                     </li>
 
                     
@@ -90,21 +90,21 @@
 
                         
                         <li>
-                            <a href="/huangxiaoxiaonihao.github.io/about/">About</a>
+                            <a href="/hexo-theme-huxblog/about/">About</a>
                         </li>
                         
                     
 
                         
                         <li>
-                            <a href="/huangxiaoxiaonihao.github.io/archives/">Archives</a>
+                            <a href="/hexo-theme-huxblog/archives/">Archives</a>
                         </li>
                         
                     
 
                         
                         <li>
-                            <a href="/huangxiaoxiaonihao.github.io/tags/">Tags</a>
+                            <a href="/hexo-theme-huxblog/tags/">Tags</a>
                         </li>
                         
                     
@@ -147,116 +147,63 @@
 
 
     <!-- Main Content -->
-    
-<!-- Image to hack wechat -->
-<!-- <img src="http://kaijun.rocks/huangxiaoxiaonihao.github.io/hexo-theme-huxblog/img/icon_wechat.png" width="0" height="0"> -->
-<!-- <img src="{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" width="0" height="0"> -->
-
-<!-- Post Header -->
-<style type="text/css">
-    header.intro-header{
-        background-image: url('post-bg-2015.jpg')
-    }
-</style>
-<header class="intro-header" >
+    <!-- Page Header -->
+<header class="intro-header" style="background-image: url('/hexo-theme-huxblog/img/about-bg.jpg')">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-heading">
-                    <div class="tags">
-                        
-                          <a class="tag" href="/huangxiaoxiaonihao.github.io/tags/#Hello" title="Hello">Hello</a>
-                        
-                    </div>
-                    <h1>Welcome to Aguamenti</h1>
-                    <h2 class="subheading"></h2>
-                    <span class="meta">
-                        Posted by Huang Xiaoxiao on
-                        2016-12-31
-                    </span>
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
+                <div class="site-heading">
+                    <h1>About</h1>
+                    <!--<hr class="small">-->
+                    <span class="subheading">Hey, this is Huangxiaoxiao.</span>
                 </div>
             </div>
         </div>
     </div>
 </header>
 
-<!-- Post Content -->
-<article>
-    <div class="container">
-        <div class="row">
 
-    <!-- Post Container -->
-            <div class="
-                col-lg-8 col-lg-offset-2
-                col-md-10 col-md-offset-1
-                post-container">
 
-                
-
-                <hr>
-
-                
-
-                <ul class="pager">
-                    
-                    
-                        <li class="next">
-                            <a href="/huangxiaoxiaonihao.github.io/2016/12/31/hello-world/" data-toggle="tooltip" data-placement="top" title="Happy New Year">Next Post &rarr;</a>
-                        </li>
-                    
-                </ul>
-
-                
-
-                
-                <!-- disqus 评论框 start -->
-                <div class="comment">
-                    <div id="disqus_thread" class="disqus-thread"></div>
-                </div>
-                <!-- disqus 评论框 end -->
-                
-
-            </div>
-    <!-- Side Catalog Container -->
+<!-- Main Content -->
+<div class="container">
+    <div class="row">
         
 
-    <!-- Sidebar Container -->
-
+<!-- USE SIDEBAR -->
+    <!-- Post Container -->
             <div class="
-                col-lg-8 col-lg-offset-2
-                col-md-10 col-md-offset-1
-                sidebar-container">
-
-                <!-- Featured Tags -->
-                
-                <section>
-                    <!-- no hr -->
-                    <h5><a href="/huangxiaoxiaonihao.github.io/tags/">FEATURED TAGS</a></h5>
-                    <div class="tags">
-                       
-                          <a class="tag" href="/huangxiaoxiaonihao.github.io/tags/#Hello" title="Hello">Hello</a>
-                        
-                    </div>
-                </section>
+                col-lg-8 col-lg-offset-1
+                col-md-8 col-md-offset-1
+                col-sm-12
+                col-xs-12
+                post-container
+            ">
+            
                 
 
-                <!-- Friends Blog -->
-                
-            </div>
+<!-- Chinese Version -->
+<div class="zh post-container">
+    
+</div>
 
-        </div>
+
+
+
+
+
+
+
+<div class="comment">
+    <div id="disqus_thread" class="disqus-thread">
+
     </div>
-</article>
-
-
-
-
+</div>
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "hexo-theme-huxblog";
-    var disqus_identifier = "http://kaijun.rocks/huangxiaoxiaonihao.github.io/hexo-theme-huxblog/2016/12/31/hello-2015/";
-    var disqus_url = "http://kaijun.rocks/huangxiaoxiaonihao.github.io/hexo-theme-huxblog/2016/12/31/hello-2015/";
+    var disqus_identifier = "http://kaijun.rocks/hexo-theme-huxblog/about/index.html";
+    var disqus_url = "http://kaijun.rocks/hexo-theme-huxblog/about/index.html";
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -269,40 +216,125 @@
 
 
 
-<!-- async load function -->
-<script>
-    function async(u, c) {
-      var d = document, t = 'script',
-          o = d.createElement(t),
-          s = d.getElementsByTagName(t)[0];
-      o.src = u;
-      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
-      s.parentNode.insertBefore(o, s);
-    }
-</script>
-<!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
-<script>
-    async("http://cdn.bootcss.com/anchor-js/1.1.1/anchor.min.js",function(){
-        anchors.options = {
-          visible: 'always',
-          placement: 'right',
-          icon: '#'
-        };
-        anchors.add().remove('.intro-header h1').remove('.subheading').remove('.sidebar-container h5');
-    })
-</script>
-<style>
-    /* place left on bigger screen */
-    @media all and (min-width: 800px) {
-        .anchorjs-link{
-            position: absolute;
-            left: -0.75em;
-            font-size: 1.1em;
-            margin-top : -0.1em;
-        }
-    }
-</style>
+                <!-- 如果开启评论功能 -->
+                
+                    <hr>
 
+                    
+
+                    
+                    <!-- disqus 评论框 start -->
+                    <div class="comment">
+                        <div id="disqus_thread" class="disqus-thread"></div>
+                    </div>
+                    <!-- disqus 评论框 end -->
+                    
+
+
+                    
+
+                    
+                    <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+                    <script type="text/javascript">
+                        /* * * CONFIGURATION VARIABLES * * */
+                        var disqus_shortname = "hexo-theme-huxblog";
+                        var disqus_identifier = "http://kaijun.rocks/hexo-theme-huxblog/about/index.html";
+                        var disqus_url = "http://kaijun.rocks/hexo-theme-huxblog/about/index.html";
+
+                        (function() {
+                            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        })();
+
+                        
+                    </script>
+                    <!-- disqus 公共JS代码 end -->
+                    
+
+
+
+                
+
+            </div>
+    <!-- Sidebar Container -->
+            <div class="
+                col-lg-3 col-lg-offset-0
+                col-md-3 col-md-offset-0
+                col-sm-12
+                col-xs-12
+                sidebar-container
+            ">
+                <!-- Featured Tags -->
+                
+                <section>
+                    <!-- no hr -->
+                    <h5><a href="/hexo-theme-huxblog/tags/">FEATURED TAGS</a></h5>
+                    <div class="tags">
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                    </div>
+                </section>
+                
+
+                <!-- Short About -->
+                <section class="visible-md visible-lg">
+                    <hr><h5><a href="/hexo-theme-huxblog/about/">ABOUT ME</a></h5>
+                    <div class="short-about">
+
+                        
+                            <img src="/hexo-theme-huxblog/img/me.jpg" />
+                        
+
+                        
+                            <p>Lumos</p>
+                        
+
+                        <!-- SNS Link -->
+                        <ul class="list-inline">
+                            
+                            
+                            
+
+                            
+
+                            
+
+                            
+                            
+                            
+                            
+                        </ul>
+                    </div>
+                </section>
+                
+                <!-- Friends Blog -->
+                
+            </div>
+        
+    </div>
+</div>
 
 
     <!-- Footer -->
@@ -345,13 +377,13 @@
 </footer>
 
 <!-- jQuery -->
-<script src="/huangxiaoxiaonihao.github.io/js/jquery.min.js"></script>
+<script src="/hexo-theme-huxblog/js/jquery.min.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="/huangxiaoxiaonihao.github.io/js/bootstrap.min.js"></script>
+<script src="/hexo-theme-huxblog/js/bootstrap.min.js"></script>
 
 <!-- Custom Theme JavaScript -->
-<script src="/huangxiaoxiaonihao.github.io/js/hux-blog.min.js"></script>
+<script src="/hexo-theme-huxblog/js/hux-blog.min.js"></script>
 
 
 <!-- async load function -->
@@ -389,7 +421,7 @@
 <script>
     // only load tagcloud.js in tag.html
     if($('#tag_cloud').length !== 0){
-        async("http://kaijun.rocks/huangxiaoxiaonihao.github.io/hexo-theme-huxblog/js/jquery.tagcloud.js",function(){
+        async("http://kaijun.rocks/hexo-theme-huxblog/hexo-theme-huxblog/js/jquery.tagcloud.js",function(){
             $.fn.tagcloud.defaults = {
                 //size: {start: 1, end: 1, unit: 'em'},
                 color: {start: '#bbbbee', end: '#0085a1'},
@@ -453,7 +485,7 @@
 
 
 <!-- Image to hack wechat -->
-<img src="http://kaijun.rocks/huangxiaoxiaonihao.github.io/hexo-theme-huxblog/img/icon_wechat.png" width="0" height="0" />
+<img src="http://kaijun.rocks/hexo-theme-huxblog/hexo-theme-huxblog/img/icon_wechat.png" width="0" height="0" />
 <!-- Migrate from head to bottom, no longer block render and still work -->
 
 </body>
